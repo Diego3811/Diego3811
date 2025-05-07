@@ -9,7 +9,6 @@
  <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
@@ -25,24 +24,24 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+🔭 I’m currently working on ****
 
-🌱 I’m currently learning **Magento 2 cloud**
+🌱 I’m currently learning ****
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+👨‍💻 All of my projects are available at [Diego´s portfolio]()
 
-💬 Ask me about **PHP, Magento, LAMP**
+💬 Ask me about **PHP, JS, CSS**
 
-📫 How to reach me **supravt.com@gmail.com**
+📫 How to reach me **hurtadodiego3811@gmail.com**
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
+📄 Know about my experiences [my experiences](https://github.com/Diego3811)
 
 ⚡ Fun fact **I think I'm funny**
 
